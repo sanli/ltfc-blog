@@ -1,7 +1,6 @@
 # Summary
 
 * [中华珍宝馆](README.md)
-  * [关于中华珍宝馆](zhong-hua-zhen-bao-guan/guan-yu-zhong-hua-zhen-bao-guan.md)
   * [图片下载](tu-pian-xia-zai.md)
   * [迁移到Github Pages](zhong-hua-zhen-bao-guan/qian-yi-dao-github-pages.md)
   * [馆藏列表](zhong-hua-zhen-bao-guan/guan-cang-lie-biao.md)
