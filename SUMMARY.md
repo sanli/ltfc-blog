@@ -9,4 +9,6 @@
 * [技术文章](ji-zhu-wen-zhang.md)
   * 饿了么异地多活
   * DRC 实现
+* [图片处理技术](tu-pian-chu-li-ji-zhu.md)
+  * 
 
